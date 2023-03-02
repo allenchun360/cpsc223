@@ -1,0 +1,11 @@
+15:00 ESTIMATE
+20:00 TOTAL
+
+This project involved interweaving so many different files to get the code working together. I had to make
+sure I was using the functions from strategy and population properly in blotto_ga. Because of the many
+different functions and files, I had to be careful with the initial apporach to this project because
+working on one part of strategy.c could potentially ruin the code I worked on in blotto_ga or vice versa.
+Whenever I outputted a wrong result or had memory allocation issues, it took time figuring out where the
+source of the problem was coming from. One of the biggest challenges of this project was conceptually
+understanding the way structs and pointers worked, especially in population.c where there were pointers
+to arrays of pointers (double star).

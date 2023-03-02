@@ -1,0 +1,10 @@
+15:00 ESTIMATE
+24:00 TOTAL
+
+This project was one of the biggest CS assignments I have received thus far. The lines of code went
+almost to over a thousand total. Keeping track of all the variables and states was quite difficult.
+I know next time to use more helper functions rather than trying to do everything in main. The hardest
+challenge was trying to store each line of input files to arrays that I could later use to print out 
+the tags within the comments. Furthermore, the combinations of different input methods required me to
+use multiple conditionals to satisfy each situation. Lastly, debugging the many lines of code trying to
+match each test case was quite the challenge.

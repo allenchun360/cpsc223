@@ -1,0 +1,5 @@
+==677335== 600 (24 direct, 576 indirect) bytes in 1 blocks are definitely lost in loss record 5 of 5
+==677335==    at 0x483A809: malloc (vg_replace_malloc.c:307)
+==677335==    by 0x4021C5: population_create (population.c:29)
+==677335==    by 0x4014D4: main (blotto_ga.c:55)
+==677335== 
